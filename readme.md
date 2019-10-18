@@ -1,0 +1,1 @@
+This is basic tutorial for webpack.
